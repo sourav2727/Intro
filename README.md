@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  GitHub to contribute to projects at the intersection of web development, cybersecurity,  exploring the vast realm of computer science.
 - 📫 Reach Me : souravjana9641@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Beyond coding, I'm fueled by the thrill of the open road. Dreaming of becoming a motovlogger, capturing adventures on two wheels and sharing the journey with the world. Let's code by day and ride by sunset.
+
 
 <!---
 sourav2727/sourav2727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
